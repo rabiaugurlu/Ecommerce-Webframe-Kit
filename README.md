@@ -21,6 +21,6 @@ The site, which was created using only html and css, has 1 main css file and htm
 
 
 ## Authors
-* **Rabia Uğurlu** - [cobanov](https://github.com/rabiaugurlu)
+* **Rabia Uğurlu** - [rabiaugurlu](https://github.com/rabiaugurlu)
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
