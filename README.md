@@ -1,2 +1,2 @@
 # Ecommerce-Webframe-Kit
-![](ecommerce-kit.gif)
+![](Ecommerce-Webframe-Kit/immages/ecommerce-kit.gif)
